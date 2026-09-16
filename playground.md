@@ -3,7 +3,7 @@
 A throwaway file for practising branches, commits, and a deliberate merge
 conflict. Edit the line below as the README instructs.
 
-Favourite programming language: Python
+Favourite programming language: Javascript
 
 Git workflow practice completed.
 Git workflow practice completed.
