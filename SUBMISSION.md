@@ -17,4 +17,4 @@ I will remeber the following command: git switch -c new-branch-name. I will reac
 
 ## Evidence (links)
 
-https://github.com/Haseeb-Sajjad/Lab-01/pull/1
+- Merged pull request: https://github.com/Haseeb-Sajjad/Lab-01/pull/1
