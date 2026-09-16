@@ -5,4 +5,4 @@ conflict. Edit the line below as the README instructs.
 
 Favourite programming language: Python
 
-Git workflow practice completed.
+Git workflow practice completed..
